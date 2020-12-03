@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>sounds/iphone.mp3</file>
+        <file>sounds/iphone.wav</file>
+        <file>sounds/keke.wav</file>
+        <file>sounds/message.wav</file>
+    </qresource>
+</RCC>
