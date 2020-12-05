@@ -1,5 +1,7 @@
 # 基于TCP/IP的Qt聊天室
 
+文档地址：https://blog.csdn.net/Arcofcosmos/article/details/110562679
+
 ## 成果展示
 
 <img src="C:\Users\TuZhou\Desktop\聊天室.gif" style="zoom: 100%" />
